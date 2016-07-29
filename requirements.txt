@@ -1,2 +1,2 @@
-https://github.com/maartenbreddels/vaex-binder
+git+https://github.com/maartenbreddels/vaex-binder
 bqplot
