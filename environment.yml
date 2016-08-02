@@ -15,4 +15,4 @@ dependencies:
   - cython
   - pandas
   - pip:
-   - git+https://github.com/maartenbreddels/vaex#egg=vaex
+        - git+https://github.com/maartenbreddels/vaex#egg=vaex
