@@ -1,0 +1,7 @@
+name: vaex-binder
+channels:
+  - conda-forge
+dependencies:
+  - bqplot
+  - pip:
+    - git+https://github.com/maartenbreddels/vaex
