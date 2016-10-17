@@ -3,16 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - bqplot
-  - numpy
-  - scipy
-  - pyqt
-  - matplotlib
-  - pyopengl
-  - h5py
-  - numexpr
-  - astropy
-  - tornado
-  - cython
-  - pandas
-  - pip:
-        - git+https://github.com/maartenbreddels/vaex#egg=vaex
+  - vaex
